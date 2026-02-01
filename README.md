@@ -2,7 +2,7 @@
 
 Grade Level: High School
 
-Duration: 6 months
+Duration: 5 months
 
 [IIS Ettore Majorana - via ROMA 298 - Guidonia](https://www.liceoguidonia.edu.it/)
 
