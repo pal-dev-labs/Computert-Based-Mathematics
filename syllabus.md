@@ -13,7 +13,7 @@ Lesson 2: The Science Lab (NumPy and Matplotlib)
 - Matplotlib Library: Drawing points, lines, and curves on the Cartesian plane.
 - Lab: Creating a plotter of elementary functions with Cartesian axes and a custom grid.
 
-## Phase 2: Mathematical Modeling (Lessons 3-5)
+## Phase 2: Mathematical Modeling (Lessons 3-5)
 Lesson 3: Dynamic Analytical Geometry
 - Curve Parameterization (Circle, Ellipse).
 - Geometric transformations (rotations and translations) applied to plane figures.
