@@ -11,7 +11,7 @@ Teacher: Prof. Giandomenico Palumbo
 **The content of this course evolves in line with technological evolution**
 
 # Course start/end date
-The course starts on 12 feb 2026 and ends at the end of June. The course lasts 3 hours per week at Computer Science Laboratory, IIS headquarters via Roma 298. For details refer to [Course Details](./details.md)
+The course starts on 25 feb 2026 and ends at the end of June. The course lasts 3 hours per week at Computer Science Laboratory, IIS headquarters via Roma 298. For details refer to [Course Details](./details.md)
 
 # Overview
 Throughout the course, students will gradually learn the Python programming language, how to use Gemini AI to build specific code, and how to code and solve a mathematical/physical model with Python.
