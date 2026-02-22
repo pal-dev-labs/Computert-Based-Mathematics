@@ -6,7 +6,7 @@ Duration: 5 months
 
 [IIS Ettore Majorana - via ROMA 298 - Guidonia](https://www.liceoguidonia.edu.it/)
 
-Teacher: Prof. Giandomenico Palumbo
+Teachers: Prof. Giandomenico Palumbo, Francesca D'Angelo, Roberta Russo
 
 **The content of this course evolves in line with technological evolution**
 
