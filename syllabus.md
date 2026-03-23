@@ -1,42 +1,42 @@
 # Computer-Based Mathematics
 
 # Course Outline
+Lesson 1: Introduction to Python and Basic Concepts
+- The Jupyter Notebook Interface: Understanding the difference between Text Cells (Markdown) and Command Cells (Code).
+- Python Objects and Variables: Concept of objects as entities that store information and perform actions.
+- Data Types: Introduction to numeric types (int, float) and strings (str).
+- Operators:
+    - Arithmetic operators (addition, subtraction, multiplication, division, modulo, exponentiation).
+    -Comparison operators (equality, inequality, greater/less than) resulting in boolean values.
+- Introduction to Functions: Defining functions using def and the return statement, with practical applications in geometry (calculating triangle area, circumference, and distance between points).
+- AI-Assisted Coding: Using Gemini to speed up code writing and solve mathematical problems (e.g., parabola coordinates).
+- Basic Data Visualization: Introduction to matplotlib for plotting simple geometric functions.
 
-## Phase 1: Foundations and Tools (Lessons 1-2)
-Lesson 1: "Hello World" Mathematics and Google Colab
--  Introduction to the Google Colab environment (code cells vs. text).
--  Python Base: Variables, data types, lists, and for/while loops.
--  Lab: Writing scripts to calculate numerical sequences (e.g., Fibonacci) and basic mathematical algorithms (e.g., prime number verification).
+Lesson 2: Data Handling with Pandas
+- Working with Datasets: Introduction to the pandas library and the DataFrame object.
+- Loading Data: How to import CSV files from web URLs into a Python environment.
+- Data Exploration: Overview of dataset structures using football player attributes as a practical case study.
+- Interacting with Large Datasets: Basic techniques for inspecting and manipulating tabular data.
 
-Lesson 2: The Science Lab (NumPy and Matplotlib)
-- NumPy Library: From physical vectors to n-dimensional arrays.
-- Matplotlib Library: Drawing points, lines, and curves on the Cartesian plane.
-- Lab: Creating a plotter of elementary functions with Cartesian axes and a custom grid.
+Lesson 3: Objects, Lists, and Image Processing
+- Object-Oriented Programming (OOP) Reminders: Revisiting fundamental Python objects.
+- Lists: Introduction to lists as objects containing other objects.
+- Methods: Understanding and using built-in methods (e.g., .sort(), .reverse()) via dot notation.
+- Advanced Scientific Libraries: Introduction to numpy for numerical arrays and scipy for signal processing.
+- Digital Image Processing: Basics of handling images using skimage and matplotlib.image.
 
-## Phase 2: Mathematical Modeling (Lessons 3-5)
-Lesson 3: Dynamic Analytical Geometry
-- Curve Parameterization (Circle, Ellipse).
-- Geometric transformations (rotations and translations) applied to plane figures.
-- Lab: Simulation of planetary orbits or ballistic trajectories by modifying the equation parameters in real time.
-
-Lesson 4: Computational Mathematical Analysis
-- Numerical function study: finding zeros (bisection method) and maxima/minima.
-- Concept of limit and derivative via incremental ratio on discrete data.
-- Lab: Visualization of the tangent line running along a complex function curve.
-
-Lesson 5: Probability and Statistics
-- Random number generation and Monte Carlo simulations.
-- Descriptive statistics (mean, standard deviation) on small datasets.
-- Lab: Simulate rolling 10,000 dice to verify the Law of Large Numbers and visualize the normal (Gaussian) distribution.
-
-## Phase 3: Artificial Intelligence (Lesson 6)
-Lesson 6: Gemini API Integration in Python
-- Setup: Create an API key and install the google-generativeai library in Colab.
-- Programmatic Query: How to send a prompt to Gemini from code and receive a structured response.
-- Lab: "The AI ​​Tutor." Create a script where the student enters a math problem or dataset, sends it to Gemini via the API, and the model returns a theoretical explanation or a suggestion on how to improve the Python code written so far.
+Lesson 4: Conditional Structures and Future Technologies
+- Control Flow:
+- Conditional Statements: Implementing logic with if, elif, and else blocks.
+- Indentation logic: Importance of whitespace in defining Python code blocks.
+- Computer Vision & MediaPipe:
+- Integration of Google's MediaPipe for advanced vision tasks.
+- Face Landmarker: Detecting facial key points.
+- Webcam Integration: Using JavaScript within notebooks to access camera streams and capture frames for real-time processing.
+- Interactive Visualizations: Using ipywidgets to create sliders for dynamic data analysis.
 
 ## Phase 4: "Math-in-Code" Hackathon (Lessons 7-10)
-Lesson 7: Ideation and Setup (Hackathon Day 1)
+Lesson 7-8: Ideation and Setup (Hackathon Day 1)
 - Divide into groups and choose a "Challenge" (Physics, Economics, Epidemiology, Biology, etc.).
 - Use Gemini (via chat or API) to brainstorm the solution algorithm.
 - Draft the project flowchart. Lesson 8: Core Development (Hackathon Day 2)
