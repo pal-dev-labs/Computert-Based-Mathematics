@@ -1,39 +1,46 @@
 # Computer-Based Mathematics
 
 # Course Outline
-Lesson 1: Introduction to Python and Basic Concepts
-- The Jupyter Notebook Interface: Understanding the difference between Text Cells (Markdown) and Command Cells (Code).
-- Python Objects and Variables: Concept of objects as entities that store information and perform actions.
-- Data Types: Introduction to numeric types (int, float) and strings (str).
-- Operators:
-    - Arithmetic operators (addition, subtraction, multiplication, division, modulo, exponentiation).
-    -Comparison operators (equality, inequality, greater/less than) resulting in boolean values.
-- Introduction to Functions: Defining functions using def and the return statement, with practical applications in geometry (calculating triangle area, circumference, and distance between points).
-- AI-Assisted Coding: Using Gemini to speed up code writing and solve mathematical problems (e.g., parabola coordinates).
-- Basic Data Visualization: Introduction to matplotlib for plotting simple geometric functions.
+Lesson 1: Introduction to Python and the Development Environment
 
-Lesson 2: Data Handling with Pandas
-- Working with Datasets: Introduction to the pandas library and the DataFrame object.
-- Loading Data: How to import CSV files from web URLs into a Python environment.
-- Data Exploration: Overview of dataset structures using football player attributes as a practical case study.
-- Interacting with Large Datasets: Basic techniques for inspecting and manipulating tabular data.
+- Using the Jupyter Notebook interface (text and code cells).
+- Basic concepts: variables, data types (Int, Float, Str), and arithmetic operators.
+- Comparison operations and Boolean values.
+- Introduction to the function object: definition (def) and call.
+- Practical exercises in analytic geometry (calculating the area of ​​a triangle, properties of the circumference and parabola).
+- First steps with artificial intelligence (Gemini) for writing code.
 
-Lesson 3: Objects, Lists, and Image Processing
-- Object-Oriented Programming (OOP) Reminders: Revisiting fundamental Python objects.
-- Lists: Introduction to lists as objects containing other objects.
-- Methods: Understanding and using built-in methods (e.g., .sort(), .reverse()) via dot notation.
-- Advanced Scientific Libraries: Introduction to numpy for numerical arrays and scipy for signal processing.
-- Digital Image Processing: Basics of handling images using skimage and matplotlib.image.
+Lesson 2: Data Analysis with Pandas
 
-Lesson 4: Conditional Structures and Future Technologies
-- Control Flow:
-- Conditional Statements: Implementing logic with if, elif, and else blocks.
-- Indentation logic: Importance of whitespace in defining Python code blocks.
-- Computer Vision & MediaPipe:
-- Integration of Google's MediaPipe for advanced vision tasks.
-- Face Landmarker: Detecting facial key points.
-- Webcam Integration: Using JavaScript within notebooks to access camera streams and capture frames for real-time processing.
-- Interactive Visualizations: Using ipywidgets to create sliders for dynamic data analysis.
+- Introduction to the Pandas library for managing tables.
+- Loading external datasets (e.g., soccer player data from SoFIFA) via CSV files.
+- Exploring and visualizing data contained in DataFrames.
+
+Lesson 3: Multimedia Processing and Objects
+
+- In-depth study of object-oriented programming in Python.
+- Image and video manipulation using multidimensional arrays (NumPy).
+- Applying visual effects (e.g., negative effects, BGR/RGB color channel swapping).
+- Integrating libraries for signal and image processing (scipy, skimage, matplotlib).
+
+Lesson 4: Conditional Structures and Computer Vision
+
+- Study of control flow structures: conditional and repeated code execution.
+- Introduction to Computer Vision with Google's MediaPipe framework.
+- Implementation of the Face Landmarker module for video-based facial feature recognition.
+
+Lesson 5: Embeddings and Semantic Analysis
+
+- Concept of Embeddings: numerical representations of data in multidimensional vector spaces.
+- Using linear algebra to determine semantic relationships between words (e.g., similarities between animals).
+- Calculating Euclidean distance to evaluate the proximity between mathematically related concepts.
+
+Lesson 6: Generative AI and API Integration
+
+- Configuration and connection to Google Generative AI (Gemini) models via API Key.
+- Prompt engineering for structured data extraction from complex texts (e.g., historical or literary texts such as "The Betrothed").
+- Management of data exchange formats such as JSON.
+- Monitoring token usage in language models.
 
 ## Phase 4: "Math-in-Code" Hackathon (Lessons 7-10)
 Lesson 7-8: Ideation and Setup (Hackathon Day 1)
@@ -43,10 +50,6 @@ Lesson 7-8: Ideation and Setup (Hackathon Day 1)
 - Write the Python code for the mathematical model.
 - Implement the calculations with NumPy.
 - Instructor-assisted debugging.
-
-Lesson 9: Visualization and Refinement (Hackathon Day 3)
-- Create the final graphs (Matplotlib) to make the data understandable.
-- Final implementation: Insert a call to the Gemini API into the project to generate an automatic comment on the model's results (e.g., "Analyze this graph and tell me if the trend is positive").
 
 Lesson 10: Demo Day and Presentations (Hackathon Day 4)
 - Finalize the Colab Notebooks.
